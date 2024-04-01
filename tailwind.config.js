@@ -5,14 +5,16 @@ export default {
   theme: {
     colors: {
       'orange': '#e28625', 
-      'green': '#886971',
-      'dark-green': '#884148',
+      'green': '#006971',
+      'dark-green': '#004140',
       'offwhite': 'rgba(255, 255, 255, 0.75)',
       'white': '#fff',
       'offwhitebg': '#f2f2f2'
-
-
-    }
+    },
+    fontFamily:{
+      'shoulders': '" Big Shoulders Display"',
+      'lexend': '"Lexend Deca"'
+    },
   },
   plugins: [],
 }
